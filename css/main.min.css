@@ -1,0 +1,57 @@
+body{font:62.5% "Trebuchet MS",sans-serif;margin-left:50px;margin-right:50px;}
+.demoHeaders{margin-top:2em;}
+#dialog-link{padding:.4em 1em .4em 20px;text-decoration:none;position:relative;}
+#dialog-link span.ui-icon{margin:0 5px 0 0;position:absolute;left:.2em;top:50%;margin-top:-8px;}
+#icons{margin:0;padding:0;}
+#icons li{margin:2px;position:relative;padding:4px 0;cursor:pointer;float:left;list-style:none;}
+#icons span.ui-icon{float:left;margin:0 4px;}
+.fakewindowcontain .ui-widget-overlay{position:absolute;}
+select{width:200px;}
+.logo{padding:0px;border:none!important;margin:0px;clear:none;}
+.container{position:relative;width:1000px;}
+.notetitle{position:absolute;width:487px;border:1px solid #AAAAAA;border-radius:5px;background:#27d2ef url('../images/ui-bg_gloss-wave_100_27d2ef_500x100.png') 50% 50% repeat-x;font-weight:normal;color:#090909;margin:-34px 0 0;padding:.5em .5em .5em .7em;
+	}
+	.notecontainer
+	{
+		position: relative;
+		display: inline-block;
+		border: 1px solid #AAAAAA;
+		background-color: #DDDDDD;
+		min-height: 150px;
+		width: 504px;
+		text-align:left;
+		border-radius: 2px;
+		font-weight: normal;
+		color: #090909;
+		margin: 3px 0 0 0;
+		padding: 3em .5em .5em .7em;
+	}
+	
+	.notedesc
+	{
+		position: relative;
+		display: inline-block;
+		float:right;
+		border:1px solid #AAAAAA;
+		background-color: #FFFFFF;
+		width:281px;
+		min-height:138px;
+		padding: .5em .5em .5em .7em;
+	}
+	.notepic
+	{
+		border:1px solid #AAAAAA;
+		width:200px;
+		height:150px;
+		display: inline-block;
+	}
+	.noterooter
+	{
+		position:relative;
+		border:1px solid #AAAAAA;
+		width:487px;
+		display: inline-block;
+		margin: 3px 0 0 0;
+		padding: .5em .5em .5em .7em;
+		text-align:right;
+	}

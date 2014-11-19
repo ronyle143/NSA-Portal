@@ -1,0 +1,169 @@
+	/* Website template by freewebsitetemplates.com */
+	body {
+		background-image: url('../img/bg-body.png');
+		/*background-color: #b0c4de;*/
+		/*font-family: 'OpenSans';*/
+		margin: 0;
+	}
+	/*--------------------------------------------------------------------------------------------------------------------[BUTTONS]*/
+	.btnok{
+		border:0;
+		background: url(../img/buttons.png);
+		background-position: 0 -32px;
+		color: #fff;
+		display: inline-block;
+		font: 16px/30px 'OpenSans';
+		height: 32px;
+		width: 32px;
+		text-align: center;
+		text-decoration: none;
+		text-transform: uppercase;
+	}
+	.btnok:hover {
+		background-position: 0 0;
+	}
+	.btnno{
+		border:0;
+		background: url(../img/buttons.png);
+		background-position: -32px -32px;
+		color: #fff;
+		display: inline-block;
+		font: 16px/30px 'OpenSans';
+		height: 32px;
+		width: 32px;
+		text-align: center;
+		text-decoration: none;
+		text-transform: uppercase;
+	}
+	.btnno:hover {
+		background-position: -32px 0;
+	}
+	.btnadd {
+		border:0;
+		background: url(../img/buttons.png);
+		background-position: -64px -32px;
+		color: #fff;
+		display: inline-block;
+		font: 16px/30px 'OpenSans';
+		height: 32px;
+		width: 32px;
+		text-align: center;
+		text-decoration: none;
+		text-transform: uppercase;
+	}
+	.btnadd:hover {
+		background-position: -64px 0;
+	}
+	.btnrem {
+		border:0;
+		background: url(../img/buttons.png);
+		background-position: -96px -32px;
+		color: #fff;
+		display: inline-block;
+		font: 16px/30px 'OpenSans';
+		height: 32px;
+		width: 32px;
+		text-align: center;
+		text-decoration: none;
+		text-transform: uppercase;
+	}
+	.btnrem:hover {
+		background-position: -96px 0;
+	}
+	.btnview {
+		border:0;
+		background: url(../img/buttons.png);
+		background-position: -128px -32px;
+		color: #fff;
+		display: inline-block;
+		font: 16px/30px 'OpenSans';
+		height: 32px;
+		width: 32px;
+		text-align: center;
+		text-decoration: none;
+		text-transform: uppercase;
+	}
+	.btnview:hover {
+		background-position: -128px 0;
+	}
+	.btnhide {
+		border:0;
+		background: url(../img/buttons.png);
+		background-position: -0px -96px;
+		color: #fff;
+		display: inline-block;
+		font: 16px/30px 'OpenSans';
+		height: 32px;
+		width: 32px;
+		text-align: center;
+		text-decoration: none;
+		text-transform: uppercase;
+	}
+	.btnhide:hover {
+		background-position: -0px -64px;
+	}
+	.btnlike {
+		border:0;
+		background: url(../img/buttons.png);
+		background-position: -32px -96px;
+		color: #fff;
+		display: inline-block;
+		font: 16px/30px 'OpenSans';
+		height: 32px;
+		width: 32px;
+		text-align: center;
+		text-decoration: none;
+		text-transform: uppercase;
+	}
+	.btnlike:hover {
+		background-position: -32px -64px;
+	}
+	.btndislike {
+		border:0;
+		background: url(../img/buttons.png);
+		background-position: -64px -96px;
+		color: #fff;
+		display: inline-block;
+		font: 16px/30px 'OpenSans';
+		height: 32px;
+		width: 32px;
+		text-align: center;
+		text-decoration: none;
+		text-transform: uppercase;
+	}
+	.btndislike:hover {
+		background-position: -64px -64px;
+	}
+	.btnmessage {
+		border:0;
+		background: url(../img/buttons.png);
+		background-position: -96px -96px;
+		color: #fff;
+		display: inline-block;
+		font: 16px/30px 'OpenSans';
+		height: 32px;
+		width: 32px;
+		text-align: center;
+		text-decoration: none;
+		text-transform: uppercase;
+	}
+	.btnmessage:hover {
+		background-position: -96px -64px;
+	}
+	.btnedit {
+		border:0;
+		background: url(../img/buttons.png);
+		background-position: -128px -96px;
+		color: #fff;
+		display: inline-block;
+		font: 16px/30px 'OpenSans';
+		height: 32px;
+		width: 32px;
+		text-align: center;
+		text-decoration: none;
+		text-transform: uppercase;
+	}
+	.btnedit:hover {
+		background-position: -128px -64px;
+	}
+	/*-------------------------------------------------------------------------------------------------------------------------------*/

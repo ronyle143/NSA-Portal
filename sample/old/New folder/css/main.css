@@ -1,0 +1,42 @@
+body
+	{
+		background-image: url('../img/main/paper-bg.jpg');
+		/*background-color: #b0c4de;*/
+		/*font-family: 'OpenSans';*/
+		/*background-size: 100%;*/
+		margin: 0;
+	}
+.mainbody
+	{
+		min-height: 520px !important;
+		height: 520px;
+	}
+.minwidth
+	{
+		width: 1px;
+	}
+img
+	{
+		padding: 0px;
+		border: none !important;
+		margin: 0px;
+		clear: none;
+		display: block;
+	}
+.inputstyle1{
+    border-style:none;
+    background-image:url(../img/main/bg-red.png);
+    border-radius:20px;
+    color:black;
+    text-shadow: 2px 2px 2px red;
+    font-size:20px;
+    padding:20px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+.inputstyle1:hover{    
+    background-image:url(../img/main/bg-blue.png);
+    
+    color:blue;
+    text-shadow: 2px 2px 2px black;
+}
